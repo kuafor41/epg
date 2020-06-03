@@ -1,537 +1,861 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="SİNEMA TV HD">
-    <display-name lang="tr">SİNEMA TV HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+<tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/03/03 15:21:41 rmeden Exp $" generator-info-url="http://www.xmltv.org/">
+  <channel id="360 HD">
+    <display-name lang="tr">360 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/30.png"/>
   </channel>
-  <channel id="SİNEMA 2 HD">
-    <display-name lang="tr">SİNEMA 2 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="A Haber HD">
+    <display-name lang="tr">A Haber HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/301.png"/>
   </channel>
-  <channel id="SİNEMA AKSİYON HD">
-    <display-name lang="tr">SİNEMA AKSİYON HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="A News HD">
+    <display-name lang="tr">A News HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/501.png"/>
   </channel>
-  <channel id="SİNEMA AKSİYON 2 HD">
-    <display-name lang="tr">SİNEMA AKSİYON 2 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="A Para HD">
+    <display-name lang="tr">A Para HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/519.png"/>
   </channel>
-  <channel id="SİNEMA YERLİ">
-    <display-name lang="tr">SİNEMA YERLİ</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="SİNEMA YERLİ 2">
-    <display-name lang="tr">SİNEMA YERLİ 2</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="SİNEMA AİLE HD">
-    <display-name lang="tr">SİNEMA AİLE HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="SİNEMA AİLE 2 HD">
-    <display-name lang="tr">SİNEMA AİLE 2 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="SİNEMA 1001 HD">
-    <display-name lang="tr">SİNEMA 1001 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="SİNEMA 1002">
-    <display-name lang="tr">SİNEMA 1002</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="SİNEMA KOMEDİ HD">
-    <display-name lang="tr">SİNEMA KOMEDİ HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="SİNEMA KOMEDİ 2 HD">
-    <display-name lang="tr">SİNEMA KOMEDİ 2 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="TRT 1 HD">
-    <display-name lang="tr">TRT 1 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="ATV HD">
-    <display-name lang="tr">ATV HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="SHOW TV HD">
-    <display-name lang="tr">SHOW TV HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="KANAL D HD">
-    <display-name lang="tr">KANAL D HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="STAR TV HD">
-    <display-name lang="tr">STAR TV HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="KANAL 7 HD">
-    <display-name lang="tr">KANAL 7 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="FOX HD">
-    <display-name lang="tr">FOX HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="TV8 HD">
-    <display-name lang="tr">TV8 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="BEYAZ TV HD">
-    <display-name lang="tr">BEYAZ TV HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="A Spor HD">
+    <display-name lang="tr">A Spor HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/433.png"/>
   </channel>
   <channel id="A2 HD">
     <display-name lang="tr">A2 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/490.png"/>
   </channel>
-  <channel id="Teve2 HD">
-    <display-name lang="tr">TEVE2 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="ATV HD">
+    <display-name lang="tr">ATV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/300.png"/>
   </channel>
-  <channel id="360 HD">
-    <display-name lang="tr">360 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="Baby TV">
+    <display-name lang="tr">Baby TV</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/436.png"/>
   </channel>
-  <channel id="TLC HD">
-    <display-name lang="tr">TLC HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="BBC World News HD">
+    <display-name lang="tr">BBC World News HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/77.png"/>
   </channel>
-  <channel id="Ulusal TV">
-    <display-name lang="tr">ULUSAL KANAL</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN BOX OFFICE 1 HD">
+    <display-name lang="tr">beIN BOX OFFICE 1 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/36.png"/>
   </channel>
-  <channel id="KANAL B">
-    <display-name lang="tr">KANAL B</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN BOX OFFICE 2 HD">
+    <display-name lang="tr">beIN BOX OFFICE 2 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/37.png"/>
   </channel>
-  <channel id="Uçan Kuş TV">
-    <display-name lang="tr">UÇANKUŞ TV</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN BOX OFFICE 3 HD">
+    <display-name lang="tr">beIN BOX OFFICE 3 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/38.png"/>
   </channel>
-  <channel id="DMAX HD">
-    <display-name lang="tr">DMAX HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN GURME HD">
+    <display-name lang="tr">beIN GURME HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/407.png"/>
   </channel>
-  <channel id="TRT Haber">
-    <display-name lang="tr">TRT HABER HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN HD">
+    <display-name lang="tr">beIN HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/483.png"/>
   </channel>
-  <channel id="A HABER HD">
-    <display-name lang="tr">A HABER HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN İZ HD">
+    <display-name lang="tr">beIN İZ HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/159.png"/>
   </channel>
-  <channel id="NTV HD">
-    <display-name lang="tr">NTV HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN MOVIES ACTION 2 HD">
+    <display-name lang="tr">beIN MOVIES ACTION 2 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/454.png"/>
   </channel>
-  <channel id="CNN TÜRK HD">
-    <display-name lang="tr">CNN TÜRK HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN MOVIES ACTION HD">
+    <display-name lang="tr">beIN MOVIES ACTION HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/453.png"/>
   </channel>
-  <channel id="KANAL 24 HD">
-    <display-name lang="tr">24 TV</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN MOVIES FAMILY HD">
+    <display-name lang="tr">beIN MOVIES FAMILY HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/335.png"/>
   </channel>
-  <channel id="HABERTURK HD">
-    <display-name lang="tr">HABERTÜRK</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN MOVIES PREMIERE 2 HD">
+    <display-name lang="tr">beIN MOVIES PREMIERE 2 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/327.png"/>
   </channel>
-  <channel id="BLOOMBERG HT HD">
-    <display-name lang="tr">BLOOMBERG HT HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN MOVIES PREMIERE HD">
+    <display-name lang="tr">beIN MOVIES PREMIERE HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/271.png"/>
   </channel>
-  <channel id="ÜLKE TV HD">
-    <display-name lang="tr">ÜLKE TV HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN MOVIES STARS HD">
+    <display-name lang="tr">beIN MOVIES STARS HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/272.png"/>
   </channel>
-  <channel id="AKİT TV HD">
-    <display-name lang="tr">AKİT TV</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN MOVIES TURK HD">
+    <display-name lang="tr">beIN MOVIES TURK HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/381.png"/>
   </channel>
-  <channel id="TRT TÜRK">
-    <display-name lang="tr">TRT TÜRK</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN SERIES COMEDY HD">
+    <display-name lang="tr">beIN SERIES COMEDY HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/326.png"/>
   </channel>
-  <channel id="A PARA HD">
-    <display-name lang="tr">A PARA HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN SERIES DRAMA HD">
+    <display-name lang="tr">beIN SERIES DRAMA HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/263.png"/>
   </channel>
-  <channel id="A NEWS HD">
-    <display-name lang="tr">A NEWS HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN SERIES SCI-FI HD">
+    <display-name lang="tr">beIN SERIES SCI-FI HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/375.png"/>
   </channel>
-  <channel id="TRT Belgesel">
-    <display-name lang="tr">TRT BELGESEL HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="National Geographic HD">
-    <display-name lang="tr">NATIONAL GEOGRAPHIC HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="Nat Geo People">
-    <display-name lang="tr">NAT GEO PEOPLE HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="Discovery Channel HD">
-    <display-name lang="tr">DISCOVERY CHANNEL HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="Animal Planet">
-    <display-name lang="tr">ANIMAL PLANET HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="ID">
-    <display-name lang="tr">DISCOVERY ID</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="Discovery Science HD">
-    <display-name lang="tr">DISCOVERY SCIENCE HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="TREK HD">
-    <display-name lang="tr">TREK HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="SCIENCE and VIE HD">
-    <display-name lang="tr">SCIENCE and VIE HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="VIASAT EXPLORE">
-    <display-name lang="tr">VIASAT EXPLORE</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="ANIMAUX">
-    <display-name lang="tr">ANIMAUX</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="CHASSE ET PECHE">
-    <display-name lang="tr">CHASSE ET PECHE</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="AZ TV 1">
-    <display-name lang="tr">AZ TV 1</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="TRT SPOR HD">
-    <display-name lang="tr">TRT SPOR HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="beIN SERIES VICE HD">
+    <display-name lang="tr">beIN SERIES VICE HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/255.png"/>
   </channel>
   <channel id="beIN SPORTS HABER HD">
     <display-name lang="tr">beIN SPORTS HABER HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="A Spor HD">
-    <display-name lang="tr">A SPOR</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="EUROSPORT 1 HD">
-    <display-name lang="tr">EUROSPORT 1 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="Eurosport 2 HD">
-    <display-name lang="tr">EUROSPORT 2 HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="AUTOMOTO HD">
-    <display-name lang="tr">AUTOMOTO HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="FIGHTBOX HD">
-    <display-name lang="tr">FIGHTBOX HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/508.png"/>
   </channel>
   <channel id="beIN SPORTS HD 1">
-    <display-name lang="tr">beIN SPORTS 1</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+    <display-name lang="tr">beIN SPORTS HD 1</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/193.png"/>
   </channel>
   <channel id="beIN SPORTS HD 2">
-    <display-name lang="tr">beIN SPORTS 2</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+    <display-name lang="tr">beIN SPORTS HD 2</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/310.png"/>
   </channel>
   <channel id="beIN SPORTS HD 3">
-    <display-name lang="tr">beIN SPORTS 3</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+    <display-name lang="tr">beIN SPORTS HD 3</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/312.png"/>
   </channel>
   <channel id="beIN SPORTS HD 4">
-    <display-name lang="tr">beIN SPORTS 4</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+    <display-name lang="tr">beIN SPORTS HD 4</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/495.png"/>
+  </channel>
+  <channel id="beIN SPORTS HD 4">
+    <display-name lang="tr">beIN SPORTS HD 4</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/495.png"/>
   </channel>
   <channel id="beIN SPORTS MAX 1 HD">
-    <display-name lang="tr">beIN SPORTS MAX 1</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+    <display-name lang="tr">beIN SPORTS MAX 1 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/506.png"/>
   </channel>
   <channel id="beIN SPORTS MAX 2 HD">
-    <display-name lang="tr">beIN SPORTS MAX 2</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+    <display-name lang="tr">beIN SPORTS MAX 2 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/507.png"/>
   </channel>
-  <channel id="FOX LIFE HD">
-    <display-name lang="tr">FOX LIFE HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="BEYAZ TV HD">
+    <display-name lang="tr">BEYAZ TV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/188.png"/>
   </channel>
-  <channel id="FX">
-    <display-name lang="tr">FX HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="Bloomberg HT HD">
+    <display-name lang="tr">Bloomberg HT HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/24.png"/>
   </channel>
-  <channel id="FOX CRIME HD">
-    <display-name lang="tr">FOX CRIME HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="24Kitchen">
-    <display-name lang="tr">24KITCHEN</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="TRT Çocuk">
-    <display-name lang="tr">TRT ÇOCUK</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="Minika Çocuk">
-    <display-name lang="tr">MİNİKA ÇOCUK</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="MİNİKA GO">
-    <display-name lang="tr">MİNİKA GO</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="Baby TV">
-    <display-name lang="tr">BABY TV</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="Disney Channel">
-    <display-name lang="tr">DISNEY CHANNEL</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="BOOMERANG HD">
+    <display-name lang="tr">BOOMERANG HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/518.png"/>
   </channel>
   <channel id="Cartoon Network">
-    <display-name lang="tr">CARTOON NETWORK</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+    <display-name lang="tr">Cartoon Network</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/220.png"/>
   </channel>
-  <channel id="DUCKTV HD">
-    <display-name lang="tr">DUCKTV HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="CBEEBIES HD">
+    <display-name lang="tr">CBEEBIES HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/512.png"/>
   </channel>
-  <channel id="Da Vinci Learning">
-    <display-name lang="tr">DA VINCI LEARNING HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="CNN INTERNATIONAL">
+    <display-name lang="tr">CNN INTERNATIONAL</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/76.png"/>
   </channel>
-  <channel id="TRT MÜZİK">
-    <display-name lang="tr">TRT MÜZİK</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="CNN TÜRK HD">
+    <display-name lang="tr">CNN TÜRK HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/29.png"/>
   </channel>
-  <channel id="Dream TV">
-    <display-name lang="tr">DREAM TV</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="Da Vinci">
+    <display-name lang="tr">Da Vinci</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/529.png"/>
   </channel>
-  <channel id="Trace Urban">
-    <display-name lang="tr">TRACE URBAN HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="Discovery Channel HD">
+    <display-name lang="tr">Discovery Channel HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/317.png"/>
   </channel>
-  <channel id="TVNET HD">
-    <display-name lang="tr">TVNET</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="Discovery Science HD">
+    <display-name lang="tr">Discovery Science HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/318.png"/>
   </channel>
-  <channel id="Nat Geo Wild HD">
-    <display-name lang="tr">NATIONAL GEOGRAPHIC WILD HD</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
+  <channel id="Disney Channel">
+    <display-name lang="tr">Disney Channel</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/186.png"/>
   </channel>
-  <channel id="MovieSmart Premium">
-    <display-name lang="tr">MovieSmart Premium</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97253cfef0b75f4723ded" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="Disney Junior">
+    <display-name lang="tr">Disney Junior</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/282.png"/>
   </channel>
-  <channel id="MovieSmart Premium 2">
-    <display-name lang="tr">MovieSmart Premium 2</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f9725ccfef0b75f4723df0" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="Disney XD">
+    <display-name lang="tr">Disney XD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/67.png"/>
   </channel>
-  <channel id="MovieSmart Platin">
-    <display-name lang="tr">MovieSmart Platin</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97268cfef0b75f4723df3" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="DMAX HD">
+    <display-name lang="tr">DMAX HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/212.png"/>
   </channel>
-  <channel id="MovieSmart Platin 2">
-    <display-name lang="tr">MovieSmart Platin 2</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97270cfef0b75f4723df6" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="EKOTÜRK TV HD">
+    <display-name lang="tr">EKOTÜRK TV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/521.png"/>
   </channel>
-  <channel id="MovieSmart Gold">
-    <display-name lang="tr">MovieSmart Gold</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97278cfef0b75f4723df9" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="tr">Eurosport 1 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/47.png"/>
   </channel>
-  <channel id="MovieSmart Action">
-    <display-name lang="tr">MovieSmart Action</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97280cfef0b75f4723e30" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="tr">Eurosport 2 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/82.png"/>
   </channel>
-  <channel id="MovieSmart Fest">
-    <display-name lang="tr">MovieSmart Fest</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97287cfef0b75f4723ec3" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="FB TV HD">
+    <display-name lang="tr">FB TV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/486.png"/>
   </channel>
-  <channel id="MovieSmart Family">
-    <display-name lang="tr">MovieSmart Family</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f9728ecfef0b75f4723f8e" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="FOX HD">
+    <display-name lang="tr">FOX HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/18.png"/>
   </channel>
-  <channel id="MovieSmart Classic">
-    <display-name lang="tr">MovieSmart Classic</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97297cfef0b75f4723f91" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="France 24 HD">
+    <display-name lang="tr">France 24 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/285.png"/>
   </channel>
-  <channel id="MovieSmart Türk">
-    <display-name lang="tr">MovieSmart Türk</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f972a1cfef0b75f4723f94" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="Dizi Smart Premium">
-    <display-name lang="tr">Dizi Smart Premium</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f972a9cfef0b75f4723f97" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="Dizi Smart Max">
-    <display-name lang="tr">Dizi Smart Max</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f972dfcfef0b75f4723f9a" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="GS TV HD">
+    <display-name lang="tr">GS TV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/250.png"/>
   </channel>
   <channel id="HABER GLOBAL HD">
-    <display-name lang="tr">Haber Global</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/" />
-    <url>http://www.dsmart.com.tr.E</url>
+    <display-name lang="tr">HABER GLOBAL HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/520.png"/>
   </channel>
-  <channel id="Outdoor">
-    <display-name lang="tr">Outdoor</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8f4" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="BBC Earth">
-    <display-name lang="tr">BBC Earth</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="Viasat History">
-    <display-name lang="tr">Viasat History</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7e2" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="DocuBox">
-    <display-name lang="tr">DocuBox</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7e8" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="Fast and Fun">
-    <display-name lang="tr">Fast and Fun</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8f6" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="NBA TV">
-    <display-name lang="tr">NBA TV</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7f2" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="Love Nature">
-    <display-name lang="tr">Love Nature</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="Spor Smart">
-    <display-name lang="tr">Spor Smart</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97325cfef0b75f4723fa0" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="S Sport">
-    <display-name lang="tr">S Sport</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8e8" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="Sports Tv">
-    <display-name lang="tr">Sports Tv</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da884" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="Power Türk">
-    <display-name lang="tr">Power Türk</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da824" />
-    <url>http://www.dsmart.com.tr.E</url>
-  </channel>
-  <channel id="Power TV">
-    <display-name lang="tr">Power TV</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da822" />
-    <url>http://www.dsmart.com.tr.E</url>
+  <channel id="HABERTURK HD">
+    <display-name lang="tr">HABERTURK HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/31.png"/>
   </channel>
   <channel id="Halk TV">
     <display-name lang="tr">Halk TV</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8d8" />
-    <url>http://www.dsmart.com.tr.E</url>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/298.png"/>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="tr">History HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/57.png"/>
+  </channel>
+  <channel id="İdman Azerbaycan">
+    <display-name lang="tr">İdman Azerbaycan</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/415.png"/>
+  </channel>
+  <channel id="KANAL 24 HD">
+    <display-name lang="tr">KANAL 24 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/178.png"/>
+  </channel>
+  <channel id="KANAL 7 HD">
+    <display-name lang="tr">KANAL 7 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/439.png"/>
+  </channel>
+  <channel id="Kanal D HD">
+    <display-name lang="tr">Kanal D HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/430.png"/>
+  </channel>
+  <channel id="Kral FM">
+    <display-name lang="tr">Kral FM</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/421.png"/>
+  </channel>
+  <channel id="KRT TV HD">
+    <display-name lang="tr">KRT TV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/528.png"/>
+  </channel>
+  <channel id="MCM Top HD">
+    <display-name lang="tr">MCM Top HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/60.png"/>
+  </channel>
+  <channel id="Mezzo HD">
+    <display-name lang="tr">Mezzo HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/61.png"/>
+  </channel>
+  <channel id="MinikaGO">
+    <display-name lang="tr">MinikaGO</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/291.png"/>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="tr">Nat Geo Wild HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/179.png"/>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="tr">National Geographic HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/214.png"/>
+  </channel>
+  <channel id="NBA TV">
+    <display-name lang="tr">NBA TV</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/530.png"/>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="tr">Nick Jr.</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/321.png"/>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="tr">Nickelodeon HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/351.png"/>
+  </channel>
+  <channel id="NTV HD">
+    <display-name lang="tr">NTV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/28.png"/>
+  </channel>
+  <channel id="RTR PLANETA">
+    <display-name lang="tr">RTR PLANETA</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/369.png"/>
+  </channel>
+  <channel id="S SPORT HD">
+    <display-name lang="tr">S SPORT HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/497.png"/>
+  </channel>
+  <channel id="Show TV HD">
+    <display-name lang="tr">Show TV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/294.png"/>
+  </channel>
+  <channel id="Star TV HD">
+    <display-name lang="tr">Star TV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/406.png"/>
   </channel>
   <channel id="TELE 1 HD">
-    <display-name lang="tr">Tele 1</display-name>
-    <icon src="https://www.dsmart.com.tr/epg/images/0x50/" />
-    <url>http://www.dsmart.com.tr.E</url>
+    <display-name lang="tr">TELE 1 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/525.png"/>
   </channel>
-  <channel id="İZ TV">
-    <display-name lang="tr">İZ TV</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="Teve2 HD">
+    <display-name lang="tr">Teve2 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/256.png"/>
   </channel>
-  <channel id="beIN SERIES SCI-FI HD">
-    <display-name lang="tr">Dizimax Sci-Fi HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TJK TV">
+    <display-name lang="tr">TJK TV</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/53.png"/>
   </channel>
-  <channel id="beIN SERIES COMEDY HD">
-    <display-name lang="tr">Dizimax Comedy HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TLC HD">
+    <display-name lang="tr">TLC HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/23.png"/>
   </channel>
-  <channel id="beIN SERIES VICE HD">
-    <display-name lang="tr">Dizimax Vice HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT 1 HD">
+    <display-name lang="tr">TRT 1 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/19.png"/>
   </channel>
-  <channel id="beIN SERIES DRAMA HD">
-    <display-name lang="tr">Dizimax Drama HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT 2 HD">
+    <display-name lang="tr">TRT 2 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/308.png"/>
   </channel>
-  <channel id="Moviemax Comedy HD">
-    <display-name lang="tr">Moviemax Comedy HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT AVAZ">
+    <display-name lang="tr">TRT AVAZ</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/244.png"/>
   </channel>
-  <channel id="Moviemax Festival HD">
-    <display-name lang="tr">Moviemax Festival HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT Çocuk">
+    <display-name lang="tr">TRT Çocuk</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/243.png"/>
   </channel>
-  <channel id="beIN MOVIES PREMIERE HD">
-    <display-name lang="tr">Moviemax Premier HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT EBATV İLKOKUL HD">
+    <display-name lang="tr">TRT EBATV İLKOKUL HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/536.png"/>
   </channel>
-  <channel id="beIN MOVIES PREMIERE 2 HD">
-    <display-name lang="tr">Moviemax Premier 2 HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT EBATV LİSE HD">
+    <display-name lang="tr">TRT EBATV LİSE HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/538.png"/>
   </channel>
-  <channel id="beIN MOVIES STARS HD">
-    <display-name lang="tr">Moviemax Stars HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT EBATV ORTAOKUL HD">
+    <display-name lang="tr">TRT EBATV ORTAOKUL HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/537.png"/>
   </channel>
-  <channel id="beIN MOVIES ACTION HD">
-    <display-name lang="tr">Moviemax Action HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT Spor 2 HD">
+    <display-name lang="tr">TRT Spor 2 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/533.png"/>
   </channel>
-  <channel id="beIN MOVIES ACTION 2 HD">
-    <display-name lang="tr">Moviemax Action 2 HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT SPOR HD">
+    <display-name lang="tr">TRT SPOR HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/516.png"/>
   </channel>
-  <channel id="beIN MOVIES FAMILY HD">
-    <display-name lang="tr">Moviemax Family HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TRT World HD">
+    <display-name lang="tr">TRT World HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/469.png"/>
   </channel>
-  <channel id="beIN MOVIES TURK HD">
-    <display-name lang="tr">Moviemax Turk HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TV 100 HD">
+    <display-name lang="tr">TV 100 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/527.png"/>
   </channel>
-  <channel id="İZ HD">
-    <display-name lang="tr">İZ HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="TV5 Monde Europe">
+    <display-name lang="tr">TV5 Monde Europe</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/86.png"/>
+  </channel>
+  <channel id="TV8 HD">
+    <display-name lang="tr">TV8 HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/428.png"/>
+  </channel>
+  <channel id="TVNET HD">
+    <display-name lang="tr">TVNET HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/222.png"/>
+  </channel>
+  <channel id="Uçan Kuş TV">
+    <display-name lang="tr">Uçan Kuş TV</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/534.png"/>
+  </channel>
+  <channel id="Ülke TV HD">
+    <display-name lang="tr">Ülke TV HD</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/166.png"/>
+  </channel>
+  <channel id="Yaban TV">
+    <display-name lang="tr">Yaban TV</display-name>
+    <url>https://www.digiturk.com.tr/</url>
+    <icon src="http://epg.yayinakisi.co/logos/532.png"/>
+  </channel>
+  <channel id="MovieSmart Premium">
+    <display-name lang="tr">MovieSmart Premium</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f97253cfef0b75f4723ded.png"/>
+  </channel>
+  <channel id="MovieSmart Premium 2">
+    <display-name lang="tr">MovieSmart Premium 2</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f9725ccfef0b75f4723df0.png"/>
+  </channel>
+  <channel id="MovieSmart Platin">
+    <display-name lang="tr">MovieSmart Platin</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f97268cfef0b75f4723df3.png"/>
+  </channel>
+  <channel id="MovieSmart Platin 2">
+    <display-name lang="tr">MovieSmart Platin 2</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f97270cfef0b75f4723df6.png"/>
+  </channel>
+  <channel id="MovieSmart Gold">
+    <display-name lang="tr">MovieSmart Gold</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f97278cfef0b75f4723df9.png"/>
+  </channel>
+  <channel id="MovieSmart Action">
+    <display-name lang="tr">MovieSmart Action</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f97280cfef0b75f4723e30.png"/>
+  </channel>
+  <channel id="MovieSmart Fest">
+    <display-name lang="tr">MovieSmart Fest</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f97287cfef0b75f4723ec3.png"/>
+  </channel>
+  <channel id="MovieSmart Family">
+    <display-name lang="tr">MovieSmart Family</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f9728ecfef0b75f4723f8e.png"/>
+  </channel>
+  <channel id="MovieSmart Classic">
+    <display-name lang="tr">MovieSmart Classic</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f97297cfef0b75f4723f91.png"/>
+  </channel>
+  <channel id="MovieSmart Türk">
+    <display-name lang="tr">MovieSmart Türk</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f972a1cfef0b75f4723f94.png"/>
+  </channel>
+  <channel id="Dizi Smart Premium">
+    <display-name lang="tr">Dizi Smart Premium</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f972a9cfef0b75f4723f97.png"/>
+  </channel>
+  <channel id="FOXLIFE">
+    <display-name lang="tr">FOXLIFE</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5c3c933dcfef0b43f3ff3ae5.png"/>
+  </channel>
+  <channel id="FX">
+    <display-name lang="tr">FX</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5d9dc96ccfef0b5db33df65a.png"/>
+  </channel>
+  <channel id="FOXCRIME">
+    <display-name lang="tr">FOXCRIME</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5d9dc98ecfef0b5db33df65d.png"/>
+  </channel>
+  <channel id="FilmBox">
+    <display-name lang="tr">FilmBox</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da7e6.png"/>
+  </channel>
+  <channel id="Dizi Smart Max">
+    <display-name lang="tr">Dizi Smart Max</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f972dfcfef0b75f4723f9a.png"/>
+  </channel>
+  <channel id="TRT Haber">
+    <display-name lang="tr">TRT Haber</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da85e.png"/>
+  </channel>
+  <channel id="TGRT Haber">
+    <display-name lang="tr">TGRT Haber</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da8ea.png"/>
+  </channel>
+  <channel id="TV 8,5">
+    <display-name lang="tr">TV 8,5</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5924449cd6f439663be1e725.png"/>
+  </channel>
+  <channel id="24Kitchen">
+    <display-name lang="tr">24Kitchen</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5d9dc8dfcfef0b5db33df652.png"/>
+  </channel>
+  <channel id="Outdoor">
+    <display-name lang="tr">Outdoor</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da8f4.png"/>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="tr">BBC Earth</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da7e4.png"/>
+  </channel>
+  <channel id="Viasat History">
+    <display-name lang="tr">Viasat History</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da7e2.png"/>
+  </channel>
+  <channel id="DocuBox">
+    <display-name lang="tr">DocuBox</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da7e8.png"/>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="tr">Animal Planet</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5c988875cfef0b4cffc47591.png"/>
+  </channel>
+  <channel id="ID">
+    <display-name lang="tr">ID</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5b14fd35cfef0b29cf6f4c8e.png"/>
+  </channel>
+  <channel id="Nat Geo People">
+    <display-name lang="tr">Nat Geo People</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5c626f7dcfef0b62124f0e19.png"/>
+  </channel>
+  <channel id="TRT Belgesel">
+    <display-name lang="tr">TRT Belgesel</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da862.png"/>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="tr">Fashion TV</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da7ea.png"/>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name lang="tr">Trace Urban</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da7ec.png"/>
+  </channel>
+  <channel id="Fast &amp; Fun">
+    <display-name lang="tr">Fast &amp; Fun</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da8f6.png"/>
+  </channel>
+  <channel id="Love Nature">
+    <display-name lang="tr">Love Nature</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5dfcb1e2cfef0b201d22618a.png"/>
+  </channel>
+  <channel id="TAY TV">
+    <display-name lang="tr">TAY TV</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da818.png"/>
+  </channel>
+  <channel id="Spor Smart">
+    <display-name lang="tr">Spor Smart</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f97325cfef0b75f4723fa0.png"/>
+  </channel>
+  <channel id="FightBox">
+    <display-name lang="tr">FightBox</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da8c6.png"/>
+  </channel>
+  <channel id="Sports Tv">
+    <display-name lang="tr">Sports Tv</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da884.png"/>
+  </channel>
+  <channel id="TV4">
+    <display-name lang="tr">TV4</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da923.png"/>
+  </channel>
+  <channel id="Ulusal TV">
+    <display-name lang="tr">Ulusal TV</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da8d0.png"/>
+  </channel>
+  <channel id="ShowMax">
+    <display-name lang="tr">ShowMax</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da904.png"/>
+  </channel>
+  <channel id="Dream TV">
+    <display-name lang="tr">Dream TV</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da7d8.png"/>
+  </channel>
+  <channel id="Dream Türk">
+    <display-name lang="tr">Dream Türk</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da7da.png"/>
+  </channel>
+  <channel id="NR1">
+    <display-name lang="tr">NR1</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da8de.png"/>
+  </channel>
+  <channel id="NR1 Türk">
+    <display-name lang="tr">NR1 Türk</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da86e.png"/>
+  </channel>
+  <channel id="Power Türk">
+    <display-name lang="tr">Power Türk</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da824.png"/>
+  </channel>
+  <channel id="Power TV">
+    <display-name lang="tr">Power TV</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da822.png"/>
+  </channel>
+  <channel id="Çocuk Smart">
+    <display-name lang="tr">Çocuk Smart</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f972f5cfef0b75f4723f9d.png"/>
+  </channel>
+  <channel id="Da Vinci Learning">
+    <display-name lang="tr">Da Vinci Learning</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5a705d33cfef0b3207d328d3.png"/>
+  </channel>
+  <channel id="Minika Çocuk">
+    <display-name lang="tr">Minika Çocuk</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da842.png"/>
+  </channel>
+  <channel id="TGRT Belgesel">
+    <display-name lang="tr">TGRT Belgesel</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da8ec.png"/>
+  </channel>
+  <channel id="Köy TV">
+    <display-name lang="tr">Köy TV</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da870.png"/>
+  </channel>
+  <channel id="Kanal 16">
+    <display-name lang="tr">Kanal 16</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f31598cfef0b3061cf4270.png"/>
+  </channel>
+  <channel id="Cem Tv">
+    <display-name lang="tr">Cem Tv</display-name>
+    <url>https://www.dsmart.com.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/5d2dde85cfef0b39db6ab391.png"/>
+  </channel>
+  <channel id="ANIMAUX">
+    <display-name lang="tr">ANIMAUX</display-name>
+    <icon src="http://epg.yayinakisi.co/logos/Animaux.png" />
+    <url>https://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="AUTOMOTO HD">
+    <display-name lang="tr">AUTOMOTO HD</display-name>
+    <icon src="http://epg.yayinakisi.co/logos/AutomotoTV.png" />
+    <url>https://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="CHASSE ET PECHE">
+    <display-name lang="tr">CHASSE ET PECHE</display-name>
+    <icon src="http://epg.yayinakisi.co/logos/ChasseEtPeche.png" />
+    <url>https://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="DISCOVERY SHOWCASE HD">
+    <display-name lang="tr">DISCOVERY SHOWCASE HD</display-name>
+    <icon src="http://epg.yayinakisi.co/logos/DiscoveryShowcase.png" />
+    <url>https://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="S SPORT 2">
+    <display-name lang="tr">S SPORT 2</display-name>
+    <icon src="http://epg.yayinakisi.co/logos/S_Sport_2_logo.png" />
+    <url>https://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="SCIENCE &amp; VIE HD">
+    <display-name lang="tr">SCIENCE &amp; VIE HD</display-name>
+    <icon src="http://epg.yayinakisi.co/logos/ScienceVie.png" />
+    <url>https://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="TREK HD">
+    <display-name lang="tr">TREK HD</display-name>
+    <icon src="http://epg.yayinakisi.co/logos/trek.png" />
+    <url>https://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="SinemaTV">
+    <display-name lang="tr">SinemaTV</display-name>
+    <icon src="https://sinematv.com.tr/content/logo/SINEMATV.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema 2">
+    <display-name lang="tr">Sinema 2</display-name>
+    <icon src="https://sinematv.com.tr/content/logo/SINEMATV-2.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema Aksiyon">
+    <display-name lang="tr">Sinema Aksiyon</display-name>
+    <icon src="http://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema Aksiyon 2">
+    <display-name lang="tr">Sinema Aksiyon 2</display-name>
+    <icon src="http://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON-2.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema Aile">
+    <display-name lang="tr">Sinema Aile</display-name>
+    <icon src="http://sinematvaile.com.tr/content/logo/SINEMATV-AILE.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema Aile 2">
+    <display-name lang="tr">Sinema Aile 2</display-name>
+    <icon src="http://sinematvaile.com.tr/content/logo/SINEMATV-AILE-2.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema 1001">
+    <display-name lang="tr">Sinema 1001</display-name>
+    <icon src="http://1001.sinematv.com.tr/content/logo/SINEMATV-1001.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema 1002">
+    <display-name lang="tr">Sinema 1002</display-name>
+    <icon src="http://1001.sinematv.com.tr/content/logo/SINEMATV-1002.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema Komedi">
+    <display-name lang="tr">Sinema Komedi</display-name>
+    <icon src="http://komedi.sinematv.com.tr/content/logo/SINEMATV-KOMEDI.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema Komedi 2">
+    <display-name lang="tr">Sinema Komedi 2</display-name>
+    <icon src="http://komedi.sinematv.com.tr/content/logo/SINEMATV-KOMEDI-2.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema Yerli">
+    <display-name lang="tr">Sinema Yerli</display-name>
+    <icon src="http://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="Sinema Yerli 2">
+    <display-name lang="tr">Sinema Yerli 2</display-name>
+    <icon src="http://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI-2.png"/>
+    <url>https://sinematv.com.tr/</url>
+  </channel>
+  <channel id="TRT 4K">
+    <display-name lang="tr">TRT 4K</display-name>
+    <url>http://www.trt.net.tr</url>
+    <icon src="http://epg.yayinakisi.co/logos/59f19761cfef0b221f7da8b8.png"/>
   </channel>
   <programme start="20200603001500 +0300" stop="20200603023000 +0300" channel="SİNEMA TV HD">
     <title lang="tr">Kuralsız</title>
@@ -42633,4 +42957,4 @@
     <category lang="tr">Komedi</category>
     <country lang="tr">TUR</country>
   </programme>
-</tv>
+  

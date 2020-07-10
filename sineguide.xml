@@ -1,5 +1,127 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="trt1.tr">
+    <display-name lang="tr">TRT 1</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="atv.tr">
+    <display-name lang="tr">ATV HD</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="showtv.tr">
+    <display-name lang="tr">Show TV HD</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="startv.tr">
+    <display-name lang="tr">Star TV HD</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="kanald.tr">
+    <display-name lang="tr">Kanal D HD</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="fox.tr">
+    <display-name lang="tr">FOX HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="tv8.tr">
+    <display-name lang="tr">TV8 HD</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BEYAZ TV HD">
+    <display-name lang="tr">BEYAZ TV HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="teve2.tr">
+    <display-name lang="tr">TEVE2 HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="A Haber HD">
+    <display-name lang="tr">A HABER HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="TRT Haber">
+    <display-name lang="tr">TRT Haber</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="haberturk.tr">
+    <display-name lang="tr">HABERTURK</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="cnnturk.tr">
+    <display-name lang="tr">CNN TÜRK HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="ntv.tr">
+    <display-name lang="tr">NTV</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="aspor.tr">
+    <display-name lang="tr">A SPOR HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beinsports1.tr">
+    <display-name lang="tr">beIN SPORTS 1</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="eurosport1.tr">
+    <display-name lang="tr">Eurosport</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TV 100 HD">
+    <display-name lang="tr">TV100</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="natgeowild.tr">
+    <display-name lang="tr">Nat Geo Wild HD</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="natgeo.tr">
+    <display-name lang="tr">National Geographic HD</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="discoverychannel.tr">
+    <display-name lang="tr">Discovery</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="discoveryscience.tr">
+    <display-name lang="tr">Discovery Science</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="discoveryid.tr">
+    <display-name lang="tr">DISCOVERY ID</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="bbcearth.tr">
+    <display-name lang="tr">BBC Earth</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="historychannel.tr">
+    <display-name lang="tr">History</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="viasathistorynature.tr">
+    <display-name lang="tr">VIASAT HISTORY</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="animalplanet.tr">
+    <display-name lang="tr">ANIMAL PLANET HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="Love Nature">
+    <display-name lang="tr">Love Nature</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="ANIMAUX">
+    <display-name lang="tr">ANIMAUX</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="CHASSE ET PECHE">
+    <display-name lang="tr">CHASSE ET PECHE</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
   <programme start="20200710004500 +0300" stop="20200710033500 +0300" channel="trt1.tr">
     <title lang="tr">Kalk gidelim</title>
   </programme>
